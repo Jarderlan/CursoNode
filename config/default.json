@@ -1,0 +1,10 @@
+{
+    "App": {
+        "Resource": {
+            "StormGlass": {
+                "apiUrl": "https://api.stormglass.io/v2",
+                "apiToken": "vai-vir-aqui"
+            }
+        }
+    }
+}

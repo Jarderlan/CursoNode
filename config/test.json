@@ -1,0 +1,9 @@
+{
+    "App": {
+        "Resource": {
+            "StormGlass": {
+                "apiToken": "test-token"
+            }
+        }
+    }
+}
